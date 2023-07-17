@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729783140179",
+    "project_id": "cmp-walkthrough",
+    "storage_bucket": "cmp-walkthrough.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729783140179:android:ec0de08b1880c895936ba6",
+        "android_client_info": {
+          "package_name": "com.example.cmp_task_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729783140179-eq0r58b64k35qbls0h92s3i21gh19hhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBnAJAy0HWjwJqGvow5rV_hgqv2BGW6hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729783140179-eq0r58b64k35qbls0h92s3i21gh19hhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
